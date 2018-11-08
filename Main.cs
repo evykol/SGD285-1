@@ -34,7 +34,7 @@ public class SGD285_1
     {
         UserQuote[] userQuotes = new UserQuote[]
 	    {
-           new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"),
+           new UserQuote("Bahram Dahi", "I have never let my schooling interfere with my education. - [attributed to] Mark Twain"), 
 	       new UserQuote("Ryan Douglass", "If there is no struggle there is no progress. - Frederick Douglass"),
 	    new UserQuote("Baylen Smith", "Whatever happens, happens. - Spike Spiegel"),
 	       new UserQuote("Jennifer Ethridge", "I have found a desire within myself that no experience in this world can satisfy; the most probable explanation is that I was made for another world."),
@@ -47,10 +47,10 @@ public class SGD285_1
 	       new UserQuote("Jonathon Huskey", "The path of least resistance is the path of the loser. -H. G. Wells"),
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
 	   new UserQuote("Jonny Westfall", "No one will ever get what they want, and that is beautiful. - They Might Be Giants"),
-           new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote//
+           new UserQuote("Joseph Flanagan", "'Do. Or do not. There is no try.' -Yoda"), // I love this quote// /*I also LOVE this quote!*/
            new UserQuote("Jennifer Baldwin", "I am no bird; and no net ensnares me; I am a free human being with an independent will. - Charlotte Bronte"),
            new UserQuote("Mayra Orlando", "Problems are not stop signs, they are guidelines.- Robert H. Schiuller"),
-           new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"),
+           new UserQuote("Forrest Wilkerson", "You miss 100% of the shots you never take- Wayne Gretzky"), /*Haha I just saw this quote in The Office, US*/
            new UserQuote("Hannah Sprinkle", "There are no happy endings, endings are the saddest part. So just give me a happy middle and a very happy start. -Shel Silverstein"),
            new UserQuote("Evy Kollstrand", "You never know until you know, you know")
            // add the next user here using the formula above, don't forget the comma to separate the items in the initialization list.
